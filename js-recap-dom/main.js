@@ -14,3 +14,20 @@ console.log(head1);
 const head2 = document.querySelectorAll(".headLine");
 console.log(head2);
  */
+
+/* const p = document.createElement("p");
+
+//textContent
+// p.textContent = "Hello Bangladesh!";
+
+//innerText
+// p.innerText = "Hello Bangladesh";
+// document.body.appendChild(p);
+
+const template = `
+<span>Hello</span>
+<span>Bangladesh</span>
+`;
+
+document.body.insertAdjacentElement("beforeend", p);
+p.insertAdjacentHTML("afterbegin", template); */
