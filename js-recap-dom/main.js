@@ -31,3 +31,17 @@ const template = `
 
 document.body.insertAdjacentElement("beforeend", p);
 p.insertAdjacentHTML("afterbegin", template); */
+
+/* const pera = document.querySelector(".pera");
+
+// element.classList.add
+// pera.classList.add("test");
+
+// element.classList.remove
+// pera.classList.remove("test");
+
+// element.classList.toggle
+pera.classList.toggle("test");
+
+// element.classList.contains
+pera.classList.contains("test") ? console.log("Yes") : console.log("No"); */
