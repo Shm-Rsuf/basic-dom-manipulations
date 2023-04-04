@@ -45,3 +45,8 @@ pera.classList.toggle("test");
 
 // element.classList.contains
 pera.classList.contains("test") ? console.log("Yes") : console.log("No"); */
+
+/* const btn = document.querySelector(".btn");
+btn.addEventListener("click", () => {
+  document.body.style.backgroundColor = "blue";
+}); */
